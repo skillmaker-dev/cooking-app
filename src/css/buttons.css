@@ -1,0 +1,31 @@
+.btn {
+  font-size: inherit;
+  background: none;
+  border: none;
+  outline: none;
+  font-weight: bold;
+  border-radius: 5px;
+  padding: 5px 20px;
+  cursor: pointer;
+  margin-bottom: 10px;
+  transition: all 0.15s;
+}
+
+.btn--primary {
+  color: white;
+  background-color: rgb(68, 194, 233);
+}
+
+.btn--primary:hover {
+  background-color: rgb(26, 170, 214);
+}
+
+.btn--danger {
+  color: white;
+  background-color: rgb(240, 46, 39);
+  margin-left: 5px;
+}
+
+.btn--danger:hover {
+  background-color: rgb(236, 72, 72);
+}
