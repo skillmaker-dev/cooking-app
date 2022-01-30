@@ -8,6 +8,8 @@
 .label {
   font-weight: 500;
   margin-right: 10px;
+  margin-top: auto;
+  margin-bottom: auto;
 }
 .info {
   font-weight: 200;

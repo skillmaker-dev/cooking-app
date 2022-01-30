@@ -1,5 +1,5 @@
 .btn {
-  font-size: inherit;
+  font-size: 20px;
   background: none;
   border: none;
   outline: none;
@@ -7,8 +7,9 @@
   border-radius: 5px;
   padding: 5px 20px;
   cursor: pointer;
-  margin-bottom: 10px;
+  width: fit-content;
   transition: all 0.15s;
+  text-align: center;
 }
 
 .btn--primary {
